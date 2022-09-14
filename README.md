@@ -1,4 +1,4 @@
-# Sample Reactive - Spring Boot application
+# Spring Boot Reactive - Weather API
 
 The purpose of this project is to demonstrate how we can
 use [Spring WebFlux](https://docs.spring.io/spring/docs/current/spring-framework-reference/web-reactive.html) to create
