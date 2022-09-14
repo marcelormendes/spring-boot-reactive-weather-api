@@ -10,3 +10,4 @@ target/
 # Maven
 log/
 target/
+.vscode/
