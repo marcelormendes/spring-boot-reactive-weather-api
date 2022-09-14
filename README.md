@@ -7,10 +7,6 @@ a simple reactive web application.
 # How to build and run
 To compile just do `mvn package`,
 
-## Prerequisites
-
-* JAVA 8 should be installed
-
 To run the application execute the following:
 
 ```
